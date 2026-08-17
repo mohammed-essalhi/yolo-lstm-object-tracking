@@ -21,9 +21,6 @@ The primary objective is to resolve multi-object detection noise by effectively 
 
 ```text
 yolo-lstm-object-tracking/
-│
-├── data/                                # (Not tracked) Directory for OTB100 sequences
-├── weights/                             # (Not tracked) YOLOv5 and LSTM weights
 ├── 01_main_yolo_lstm_tracking.ipynb     # Main tracking pipeline and architecture setup
 ├── 02_tracking_basketball_seq.ipynb     # Inference & evaluation on the BasketBall sequence
 ├── 03_tracking_blurcar_seq.ipynb        # Inference & evaluation on the BlurCar2 sequence
@@ -36,7 +33,7 @@ yolo-lstm-object-tracking/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/yolo-lstm-object-tracking.git
+   git clone https://github.com/mohammed-essalhi/yolo-lstm-object-tracking.git
    cd yolo-lstm-object-tracking
    ```
 
