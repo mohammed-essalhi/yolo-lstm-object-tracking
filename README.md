@@ -60,11 +60,6 @@ jupyter notebook 02_tracking_basketball_seq.ipynb
 ```
 *(Ensure that paths inside the notebook point to your local `data/` directory instead of `/kaggle/input/...`)*
 
-##  Results & Demonstration
-
-*(Note: Add a GIF or a short video clip here showing the bounding box accurately tracking the target across challenging frames, demonstrating the model's robustness against occlusions or similar objects in the frame.)*
-
-##  Technical Stack
-* **Deep Learning Framework:** PyTorch
-* **Computer Vision:** OpenCV, Ultralytics YOLOv5
-* **Data Processing & Math:** NumPy, SciPy, Pandas#
+##  Author
+**Mohammed Essalhi**
+* [LinkedIn](https://linkedin.com/in/mohammed-essalhi-23794b24b)
