@@ -1,0 +1,14 @@
+# Deep Learning & Vision
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0  # Pour YOLOv5/YOLOv8
+opencv-python>=4.8.0
+
+# Manipulation de données et calculs
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Environnement d'exécution
+jupyter>=1.0.0
+matplotlib>=3.7.0

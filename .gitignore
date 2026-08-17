@@ -1,0 +1,31 @@
+# Données et Datasets (Très important pour les projets Kaggle rapatriés)
+data/
+datasets/
+*.mp4
+*.avi
+
+# Poids des modèles Deep Learning
+*.pt
+*.pth
+*.h5
+*.weights
+*.onnx
+weights/
+runs/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+.env
+
+# Fichiers bureautiques (au cas où le TP9.docx traîne encore)
+*.docx
+*.pdf
